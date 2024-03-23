@@ -10,7 +10,7 @@
  * Author: Ditra Amadia
  *
  * O(m*n) time complexity
- * 3ms runtime
+ * 0ms runtime
  */
 
 class Solution
