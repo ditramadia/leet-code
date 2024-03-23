@@ -1,5 +1,6 @@
 #include <string>
 #include <stack>
+#include <unordered_map>
 
 /**
  * Roman to Integer
@@ -11,7 +12,7 @@
  * Author: Ditra Amadia
  *
  * O(n) time complexity
- * 3ms runtime
+ * 0ms runtime
  */
 
 class Solution
@@ -19,12 +20,20 @@ class Solution
 public:
   bool isValid(std::string s)
   {
+    if (s.length() % 2 != 0)
+    {
+      return false;
+    }
+
+    std::unordered_map<char, char> m;
+    m[')'] = '(';
+    m[']'] = '[';
+    m['}'] = '{';
+
     std::stack<char> stack;
 
-    for (int i = 0; i < s.length(); i++)
+    for (char c : s)
     {
-      char c = s[i];
-
       if (c == '(' || c == '[' || c == '{')
       {
         stack.push(c);
@@ -34,7 +43,8 @@ public:
       if (stack.empty())
         return false;
 
-      if (c == ')' && stack.top() == '(' || c == ']' && stack.top() == '[' || c == '}' && stack.top() == '{')
+      char ct = m[c];
+      if (stack.top() == ct)
       {
         stack.pop();
         continue;
