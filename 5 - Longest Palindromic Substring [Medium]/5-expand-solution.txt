@@ -1,0 +1,30 @@
+Test case 1
+
+Input: s = "babad"
+Output: "bab"
+
+Expand
+
+i   j   temp
+0   0   b
+1   0   a
+1   1   bab
+2   0   b
+2   1   aba
+2   2   babad   not polydrom
+3   0   a
+3   1   bad   not polyndrom 
+
+=============================================================
+
+Test case 2
+
+Input: s = "cbbd"
+Output: "bb"
+
+=============================================================
+
+Test case 3
+
+Input: s = "baccdbad"
+Output: "cc"
