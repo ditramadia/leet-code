@@ -1,0 +1,14 @@
+fun twoSum(nums, target):
+  hash = {}
+
+  for (i = 0; i < nums.size; i++) {
+    d = target - nums[i]
+
+    if (d in hash.key) {
+      return [hash.d, i]
+    }
+
+    hash.nums[i] = i
+  }
+  
+  return []

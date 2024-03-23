@@ -1,6 +1,9 @@
+#include <vector>
+
 /**
  * Two Sum
  * Brute force approach
+ * https://leetcode.com/problems/two-sum/
  *
  * Created: 2024-03-23
  * Updated: 2024-03-23
@@ -9,7 +12,7 @@
  * O(n^2) time complexity
  * 49ms runtime
  */
-#include <vector>
+
 class Solution
 {
 public:
