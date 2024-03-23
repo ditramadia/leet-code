@@ -1,0 +1,9 @@
+Test case 1
+Input: strs = ["flower","flow","flight"]
+
+1. Sort the array
+["flight", "flower", "flow"]
+
+2. Compare the first and last string 
+compare flight with flow
+return ret if char is different

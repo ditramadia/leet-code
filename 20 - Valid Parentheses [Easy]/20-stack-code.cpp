@@ -3,7 +3,7 @@
 #include <unordered_map>
 
 /**
- * Roman to Integer
+ * Valid Parentheses
  * Hash map approach
  * https://leetcode.com/problems/valid-parentheses/
  *
