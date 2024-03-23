@@ -1,0 +1,25 @@
+Test case: 1
+x = 121
+
+1. Get the length of the array
+length = floor(log10(x)) + 1 = 3
+
+2. Compare the digits using 2 iterators
+x = 1 2 1
+ones      = 121 % 10    = 1 // 1      = 1
+tens      = 121 % 100   = 21 // 10    = 2
+hundreds  = 121 % 1000  = 121 // 100  = 1
+
+===============================================================
+Test case: 2
+x = 1221
+
+1. Get the length of the array
+length = floor(log10(x)) + 1 = 4
+
+2. Compare the digits using 2 iterators
+x = 1 2 2 1
+ones      = 1221 % 10     = 1 // 1         = 1
+tens      = 1221 % 100    = 21 // 10       = 2
+hundreds  = 1221 % 1000   = 221 // 100     = 2
+thousands = 1221 % 10000  = 1221 // 1000   = 1
