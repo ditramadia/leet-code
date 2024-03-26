@@ -4,14 +4,15 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Solved Problems: 13
+Solved Problems: 14
 - Easy: 10
-- Medium: 3
+- Medium: 4
 - Hard: 0
 
 | No | Problem | Difficulty | Category | Runtime (ms) | Complexity (Big O) | Language | Status |
 | :---: | :--- | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | Two Sum | Easy | Hashing | 13 | O(n) | ![Cpp][Cpp.cpp] | ✅
+| 2 | Add Two Numbers | Medium | Linked List | 15 | O(n) | ![Cpp][Cpp.cpp] | ✅
 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | 10 | O(n) | ![Cpp][Cpp.cpp] | ✅
 | 5 | Longest Palindromic Substring | Medium | Sliding Window | 11 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | ✅
 | 6  | Zigzag Conversion | Medium | Array | 3 | O(n) | ![Cpp][Cpp.cpp] | ✅
@@ -22,7 +23,7 @@ Solved Problems: 13
 | 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers | 3 | O(n) | ![Cpp][Cpp.cpp] | ✅
 | 27 | Remove Element | Easy | Two Pointers | 0 | O(n) | ![Cpp][Cpp.cpp] | ✅
 | 28 | Find the Index of the First Occurence in a String | Easy | Array | 0 | O(mn) | ![Cpp][Cpp.cpp] | ✅
-| 35 | Search Insert Position | Easy | Binary | 0 | O(log n) | ![Cpp][Cpp.cpp] | ✅
+| 35 | Search Insert Position | Easy | Binary Search | 0 | O(log n) | ![Cpp][Cpp.cpp] | ✅
 | 58 | Length of Last Word | Easy | Array | 0 | O(n) | ![Cpp][Cpp.cpp] | ✅
 
 <!-- MARKDOWN LINKS & IMAGES -->
