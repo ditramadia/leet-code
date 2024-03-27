@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Solved Problems: 15
-- Easy: 10
+Solved Problems: 16
+- Easy: 11
 - Medium: 4
 - Hard: 1
 
@@ -26,6 +26,7 @@ Solved Problems: 15
 | 28 | Find the Index of the First Occurence in a String | Easy | Array | 0 | O(mn) | ![Cpp][Cpp.cpp] | ✅ |
 | 35 | Search Insert Position | Easy | Binary Search | 0 | O(log n) | ![Cpp][Cpp.cpp] | ✅ |
 | 58 | Length of Last Word | Easy | Array | 0 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
+| 66 | Plus One | Easy | Array | 0 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
