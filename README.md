@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Solved Problems: 17
+Solved Problems: 18
 - Easy: 12
-- Medium: 4
+- Medium: 5
 - Hard: 1
 
 | No | Problem | Difficulty | Category | Runtime (ms) | Complexity (Big O) | Language | Status |
@@ -17,7 +17,8 @@ Solved Problems: 17
 | 4 | Median of Sorted Arrays | Hard | Binary Search | 23 | O(log (m + n)) | ![Cpp][Cpp.cpp] | ✅ |
 | 5 | Longest Palindromic Substring | Medium | Sliding Window | 11 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | ✅ |
 | 6  | Zigzag Conversion | Medium | Array | 3 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
-| 9 | Palindrome Number | Easy | - | 9 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
+| 7  | Reverse Integer | Medium | Maths | 0 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
+| 9 | Palindrome Number | Easy | Maths | 9 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
 | 13 | Roman to Integer | Easy | Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
 | 14 | Longest Common Prefix | Easy | Array | 3 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | ✅ |
