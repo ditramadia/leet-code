@@ -24,7 +24,7 @@ Total: 21
 | 7  | Reverse Integer | Medium | Maths | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 8  | String to Integer (atoi) | Medium | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 9 | Palindrome Number | Easy | Maths | 9 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
-| 10 | Regular Expression | Hard | Arrays & Hashing | - | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
+| 10 | Regular Expression | Hard | 2D Dynamic Programming | 11 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 13 | Roman to Integer | Easy | Arrays & Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 14 | Longest Common Prefix | Easy | Arrays & Hashing | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
