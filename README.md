@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 21
-- Easy: 12
+Total: 22
+- Easy: 13
 - Medium: 6
 - Hard: 3
 
@@ -36,6 +36,7 @@ Total: 21
 | 35 | Search Insert Position | Easy | Binary Search | 0 | O(log n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 58 | Length of Last Word | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 66 | Plus One | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 67 | Add Binary | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
