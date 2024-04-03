@@ -10,9 +10,9 @@
  * Author: Ditra Amadia
  *
  * O(n) time complexity
- * @bug Error in test case 30
+ * @error: Error in test case 30
  * Line 22: Char 41: runtime error: 1e+10 is outside the range of representable values of type 'int' (solution.cpp)
- * SUMMARY: UndefinedBehaviorSanitizer: undefined-behavior prog_joined.cpp:31:41
+ * @summary: UndefinedBehaviorSanitizer: undefined-behavior prog_joined.cpp:31:41
  */
 
 class Solution
