@@ -1,15 +1,15 @@
-#include <iostream>
 #include <string>
 
 /**
- * Median of Sorted Arrays
- * Binary search approach
- * https://leetcode.com/problems/median-of-two-sorted-arrays/
+ * Regular Expresion Matching
+ * Recursion approach
+ * https://leetcode.com/problems/regular-expression-matching/
  *
- * Created: 2024-03-27
- * Updated: 2024-03-27
+ * Created: 2024-04-03
+ * Updated: 2024-04-03
  * Author: Ditra Amadia
  *
+ * O(2^n) time complexity
  * @error: Error in test case 342
  * @summary: Memory Limit Exceeded
  */
