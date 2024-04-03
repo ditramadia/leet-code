@@ -9,7 +9,7 @@
  * Updated: 2024-03-27
  * Author: Ditra Amadia
  *
- * O(log (m + n)) time complexity
+ * O(n * log k) time complexity
  * 23ms runtime
  */
 
