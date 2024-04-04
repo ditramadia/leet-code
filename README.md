@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 23
+Total: 24
 - Easy: 14
-- Medium: 6
+- Medium: 7
 - Hard: 3
 
 🟢 Successful <br />
@@ -25,6 +25,7 @@ Total: 23
 | 8  | String to Integer (atoi) | Medium | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 9 | Palindrome Number | Easy | Maths | 9 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 10 | Regular Expression | Hard | 2D Dynamic Programming | 11 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 11 | Container With Most Water | Medium | Sliding Window | 46 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 13 | Roman to Integer | Easy | Arrays & Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 14 | Longest Common Prefix | Easy | Arrays & Hashing | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
