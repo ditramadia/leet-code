@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 26
-- Easy: 15
+Total: 27
+- Easy: 16
 - Medium: 8
 - Hard: 3
 
@@ -41,6 +41,7 @@ Total: 26
 | 67 | Add Binary | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 69 | Sqrt(x) | Easy | Maths | 0 | O(log n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 70 | Climbing Stairs | Easy | 1D Dynamic Programming | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 83 | Remove Duplicates from Sorted List | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
