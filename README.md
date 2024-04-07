@@ -4,13 +4,13 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 28
-- Easy: 17
+Total: 29
+- Easy: 18
 - Medium: 8
 - Hard: 3
 
 🟢 Successful <br />
-🟠 Warning (Does not work on some machines) <br />
+🟠 Successful but could be improved <br />
 🔴 Failed <br />
 
 | No | Problem | Difficulty | Category | Runtime (ms) | Complexity (Big O) | Language | Status |
@@ -43,6 +43,7 @@ Total: 28
 | 70 | Climbing Stairs | Easy | 1D Dynamic Programming | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 88 | Merge Sorted Array | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 94 | Merge Sorted Array | Easy | Trees | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
