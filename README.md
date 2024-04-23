@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 30
-- Easy: 19
+Total: 31
+- Easy: 20
 - Medium: 8
 - Hard: 3
 
@@ -44,7 +44,8 @@ Total: 30
 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 88 | Merge Sorted Array | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 94 | Binary Tree Inorder Traversal | Easy | Trees | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
-| 94 | Same Tree | Easy | Trees | 0 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 100 | Same Tree | Easy | Trees | 0 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 101 | Symmetric Tree | Easy | Trees | 3 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
