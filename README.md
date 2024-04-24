@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 33
-- Easy: 22
+Total: 34
+- Easy: 23
 - Medium: 8
 - Hard: 3
 
@@ -44,10 +44,11 @@ Total: 33
 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 88 | Merge Sorted Array | Easy | Arrays & Hashing | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 94 | Binary Tree Inorder Traversal | Easy | Trees | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
-| 100 | Same Tree | Easy | Trees | 0 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
-| 101 | Symmetric Tree | Easy | Trees | 3 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
-| 104 | Maximum Depth of Binary Tree | Easy | Trees | 5 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
+| 100 | Same Tree | Easy | Trees | 0 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 101 | Symmetric Tree | Easy | Trees | 3 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
+| 104 | Maximum Depth of Binary Tree | Easy | Trees | 5 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Trees | 7 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 110 | Balanced Binary Tree | Easy | Trees | 4 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
