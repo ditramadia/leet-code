@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 34
+Total: 35
 - Easy: 23
-- Medium: 8
+- Medium: 9
 - Hard: 3
 
 🟢 Successful <br />
@@ -49,6 +49,7 @@ Total: 34
 | 104 | Maximum Depth of Binary Tree | Easy | Trees | 5 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Trees | 7 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 110 | Balanced Binary Tree | Easy | Trees | 4 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 110 | Two Sum II (Input Array is Sorted) | Medium | Trees | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
