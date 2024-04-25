@@ -1,16 +1,16 @@
 #include <vector>
 
 /**
- * Balanced Binary Tree
+ * Convert Sorted Array to Binary Search Tree
  * Recursive
- * https://leetcode.com/problems/balanced-binary-tree/
+ * https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
  *
  * Created: 2024-04-24
  * Updated: 2024-04-24
  * Author: Ditra Amadia
  *
  * O(2^n) time complexity
- * 4ms runtime
+ * 7ms runtime
  */
 
 struct TreeNode
