@@ -4,13 +4,13 @@ This is my leet code repository for interview preparation and a little bit of fu
 by Ditra Amadia <br />
 
 ## Problems
-Total: 35
+Total: 36
 - Easy: 23
-- Medium: 9
+- Medium: 10
 - Hard: 3
 
 🟢 Successful <br />
-🟠 Successful but could be improved <br />
+🟠 Successful but can be improved <br />
 🔴 Failed <br />
 
 | No | Problem | Difficulty | Category | Runtime (ms) | Complexity (Big O) | Language | Status |
@@ -29,6 +29,7 @@ Total: 35
 | 12 | Integer to Roman | Medium | Arrays & Hashing | 3 | O(1) | ![Cpp][Cpp.cpp] | 🟢 |
 | 13 | Roman to Integer | Easy | Arrays & Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 14 | Longest Common Prefix | Easy | Arrays & Hashing | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 19 | Remove Nth Node From End Of List | Medium | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 23 | Merge K Sorted Lists | Hard | Linked List | 11 | O(n * log k) | ![Cpp][Cpp.cpp] | 🟢 |
@@ -49,7 +50,7 @@ Total: 35
 | 104 | Maximum Depth of Binary Tree | Easy | Trees | 5 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟠 |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Trees | 7 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 110 | Balanced Binary Tree | Easy | Trees | 4 | O(2<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
-| 110 | Two Sum II (Input Array is Sorted) | Medium | Trees | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 167 | Two Sum II (Input Array is Sorted) | Medium | Trees | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
