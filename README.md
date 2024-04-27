@@ -1,5 +1,5 @@
 # My Leet Code Repository
-This is my leet code repository for interview preparation and a little bit of fun. <br/>
+This is my leet code repository for interview preparation and my own entertainment. <br/>
 
 by Ditra Amadia <br />
 
@@ -29,6 +29,7 @@ Total: 36
 | 12 | Integer to Roman | Medium | Arrays & Hashing | 3 | O(1) | ![Cpp][Cpp.cpp] | 🟢 |
 | 13 | Roman to Integer | Easy | Arrays & Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 14 | Longest Common Prefix | Easy | Arrays & Hashing | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
+| 15 | 3 Sum | Medium | Binary Search | 50 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
 | 19 | Remove Nth Node From End Of List | Medium | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
