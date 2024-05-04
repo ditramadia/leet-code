@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 36
+Total: 38
 - Easy: 23
-- Medium: 10
+- Medium: 12
 - Hard: 3
 
 🟢 Successful <br />
@@ -30,6 +30,7 @@ Total: 36
 | 13 | Roman to Integer | Easy | Arrays & Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 14 | Longest Common Prefix | Easy | Arrays & Hashing | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 15 | 3 Sum | Medium | Binary Search | 50 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 16 | 3 Sum Closest | Medium | Binary Search | 15 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
 | 19 | Remove Nth Node From End Of List | Medium | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |

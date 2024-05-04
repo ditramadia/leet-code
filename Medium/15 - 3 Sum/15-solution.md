@@ -19,5 +19,3 @@ The distinct triplets are [-1,0,1] and [-1,-1,2]. <br />
 3. Find TwoSum of the remaining array with the target of the negated selected number
 4. Concat the arrays
 5. Repeat until all possible combination are found
-
-| i | Two Sum |
