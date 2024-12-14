@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 39
+Total: 40
 - Easy: 23
-- Medium: 13
+- Medium: 14
 - Hard: 3
 
 🟢 Successful <br />
@@ -36,6 +36,7 @@ Total: 39
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 23 | Merge K Sorted Lists | Hard | Linked List | 11 | O(n * log k) | ![Cpp][Cpp.cpp] | 🟢 |
+| 24 | Swap Nodes in Pairs | Medium | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 27 | Remove Element | Easy | Two Pointers | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 28 | Find the Index of the First Occurence in a String | Easy | Arrays & Hashing | 0 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
