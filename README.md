@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 40
-- Easy: 23
+Total: 41
+- Easy: 24
 - Medium: 14
 - Hard: 3
 
@@ -29,9 +29,10 @@ Total: 40
 | 12 | Integer to Roman | Medium | Arrays & Hashing | 3 | O(1) | ![Cpp][Cpp.cpp] | 🟢 |
 | 13 | Roman to Integer | Easy | Arrays & Hashing | 15 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 14 | Longest Common Prefix | Easy | Arrays & Hashing | 3 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
-| 15 | 3 Sum | Medium | Binary Search | 50 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
-| 16 | 3 Sum Closest | Medium | Binary Search | 15 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 15 | 3Sum | Medium | Binary Search | 50 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 16 | 3Sum Closest | Medium | Binary Search | 15 | O(n<sup>2</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
 | 17 | Letter Combinatino of a Phone Number | Medium | Backtracking | 4 | O(n<sup>n</sup>) | ![Cpp][Cpp.cpp] | 🟢 |
+| 18 | 4Sum | Medium | Binary Search | 315 | O(n<sup>3</sup>) | ![Python][Python.py] | 🟢 |
 | 19 | Remove Nth Node From End Of List | Medium | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 20 | Valid Parentheses | Easy | Stack | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | 0 | O(n) | ![Cpp][Cpp.cpp] | 🟢 |
@@ -59,3 +60,4 @@ Total: 40
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Cpp.cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Python.py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
