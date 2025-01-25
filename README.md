@@ -4,12 +4,12 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 43
-- Easy: 24
+Total: 44
+- Easy: 25
 - Medium: 15
 - Hard: 4
 
-| No | Problem | Difficulty | Runtime (ms) | Complexity (Big O) | Language | 
+| No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
 | :---: | :--- | :---: | :---: |:---: | :---: |
 | 1 | Two Sum | Easy | 13 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 2 | Add Two Numbers | Medium | 15 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
@@ -54,6 +54,7 @@ Total: 43
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | 7 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 110 | Balanced Binary Tree | Easy | 4 | $$O(2^n)$$ | ![Cpp][Cpp.cpp] | 
 | 167 | Two Sum II (Input Array is Sorted) | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
+| 206 | Reversed Linked List | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
