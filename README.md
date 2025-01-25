@@ -4,10 +4,10 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 42
+Total: 43
 - Easy: 24
 - Medium: 15
-- Hard: 3
+- Hard: 4
 
 | No | Problem | Difficulty | Runtime (ms) | Complexity (Big O) | Language | 
 | :---: | :--- | :---: | :---: |:---: | :---: |
@@ -35,6 +35,7 @@ Total: 42
 | 22 | Generate Parentheses | Medium | 0 | $$O\left(\frac{4^n}{\sqrt{n}}\right)$$ | ![Python][Python.py] | 
 | 23 | Merge K Sorted Lists | Hard | 11 | $$O(n \cdot \log k)$$ | ![Cpp][Cpp.cpp] | 
 | 24 | Swap Nodes in Pairs | Medium | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
+| 25 | Reverse Nodes in k-Group | Hard | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 26 | Remove Duplicates from Sorted Array | Easy | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 27 | Remove Element | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 28 | Find the Index of the First Occurence in a String | Easy | 0 | $$O(n^2)$$  | ![Cpp][Cpp.cpp] | 
