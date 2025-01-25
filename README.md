@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 44
+Total: 45
 - Easy: 25
-- Medium: 15
+- Medium: 16
 - Hard: 4
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -39,6 +39,7 @@ Total: 44
 | 26 | Remove Duplicates from Sorted Array | Easy | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 27 | Remove Element | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 28 | Find the Index of the First Occurence in a String | Easy | 0 | $$O(n^2)$$  | ![Cpp][Cpp.cpp] | 
+| 29 | Divide Two Integers | Medium | 0 | $$O(\log n)$$  | ![Python][Python.py]  | 
 | 35 | Search Insert Position | Easy | 0 | $$O(\log n)$$ | ![Cpp][Cpp.cpp] | 
 | 58 | Length of Last Word | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 66 | Plus One | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
