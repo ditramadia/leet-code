@@ -4,10 +4,10 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 45
+Total: 46
 - Easy: 25
 - Medium: 16
-- Hard: 4
+- Hard: 5
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
 | :---: | :--- | :---: | :---: |:---: | :---: |
@@ -56,6 +56,7 @@ Total: 45
 | 110 | Balanced Binary Tree | Easy | 4 | $$O(2^n)$$ | ![Cpp][Cpp.cpp] | 
 | 167 | Two Sum II (Input Array is Sorted) | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 206 | Reversed Linked List | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
