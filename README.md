@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 49
+Total: 50
 - Easy: 25
-- Medium: 16
+- Medium: 17
 - Hard: 8
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -43,6 +43,7 @@ Total: 49
 | 30 | Substring with Concatenation of All Words | Hard | 17 | $$O(n \cdot m)$$  | ![Python][Python.py]  | 
 | 31 | Next Permutation | Medium | 0 | $$O(n \cdot \log n)$$ | ![Python][Python.py]  | 
 | 32 | Longest Valid Parentheses | Hard | 2 | $$O(n)$$ | ![Python][Python.py]  | 
+| 33 | Search in Rotated Sorted Array | Medium | 0 | $$O(\log n)$$ | ![Python][Python.py]  | 
 | 35 | Search Insert Position | Easy | 0 | $$O(\log n)$$ | ![Cpp][Cpp.cpp] | 
 | 58 | Length of Last Word | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 66 | Plus One | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
