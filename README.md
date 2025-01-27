@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 50
+Total: 51
 - Easy: 25
-- Medium: 17
+- Medium: 18
 - Hard: 8
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -44,6 +44,7 @@ Total: 50
 | 31 | Next Permutation | Medium | 0 | $$O(n \cdot \log n)$$ | ![Python][Python.py]  | 
 | 32 | Longest Valid Parentheses | Hard | 2 | $$O(n)$$ | ![Python][Python.py]  | 
 | 33 | Search in Rotated Sorted Array | Medium | 0 | $$O(\log n)$$ | ![Python][Python.py]  | 
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | 0 | $$O(\log n)$$ | ![Python][Python.py]  | 
 | 35 | Search Insert Position | Easy | 0 | $$O(\log n)$$ | ![Cpp][Cpp.cpp] | 
 | 58 | Length of Last Word | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 66 | Plus One | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
