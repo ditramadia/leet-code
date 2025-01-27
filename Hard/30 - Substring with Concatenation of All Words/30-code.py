@@ -1,6 +1,6 @@
 '''
 Substring with Concatenation of All Words
-https://leetcode.com/problems/reverse-nodes-in-k-group/
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 Created: 2025-01-27
 Updated: 2025-01-27
