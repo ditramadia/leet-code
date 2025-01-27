@@ -4,10 +4,10 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 47
+Total: 48
 - Easy: 25
 - Medium: 16
-- Hard: 6
+- Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
 | :---: | :--- | :---: | :---: |:---: | :---: |
@@ -16,9 +16,9 @@ Total: 47
 | 3 | Longest Substring Without Repeating Characters | Medium | 10 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 4 | Median of Sorted Arrays | Hard | 23 | $$O(\log n)$$ | ![Cpp][Cpp.cpp] | 
 | 5 | Longest Palindromic Substring | Medium | 11 | $$O(n^2)$$  | ![Cpp][Cpp.cpp] | 
-| 6  | Zigzag Conversion | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
-| 7  | Reverse Integer | Medium | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
-| 8  | String to Integer (atoi) | Medium | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
+| 6 | Zigzag Conversion | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
+| 7 | Reverse Integer | Medium | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
+| 8 | String to Integer (atoi) | Medium | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 9 | Palindrome Number | Easy | 9 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 10 | Regular Expression | Hard | 11 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 11 | Container With Most Water | Medium | 46 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
@@ -41,6 +41,7 @@ Total: 47
 | 28 | Find the Index of the First Occurence in a String | Easy | 0 | $$O(n^2)$$  | ![Cpp][Cpp.cpp] | 
 | 29 | Divide Two Integers | Medium | 0 | $$O(\log n)$$  | ![Python][Python.py]  | 
 | 30 | Substring with Concatenation of All Words | Hard | 17 | $$O(n \cdot m)$$  | ![Python][Python.py]  | 
+| 31 | Next Permutation | Medium | 0 | $$O(n \cdot \log n)$$  | ![Python][Python.py]  | 
 | 35 | Search Insert Position | Easy | 0 | $$O(\log n)$$ | ![Cpp][Cpp.cpp] | 
 | 58 | Length of Last Word | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 66 | Plus One | Easy | 0 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
