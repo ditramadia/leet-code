@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 53
-- Easy: 27
+Total: 54
+- Easy: 28
 - Medium: 18
 - Hard: 8
 
@@ -63,6 +63,7 @@ Total: 53
 | 206 | Reversed Linked List | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
+| 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
