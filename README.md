@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 58
+Total: 59
 - Easy: 30
-- Medium: 20
+- Medium: 21
 - Hard: 8
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -62,7 +62,8 @@ Total: 58
 | 151 | Reverse Words in a String | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 167 | Two Sum II (Input Array is Sorted) | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 206 | Reversed Linked List | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
-| 238 | Product of Array Except Self | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 238 | Product of Array Except Self | Medium | 19 | $$O(n)$$ | ![Python][Python.py] | 
+| 334 | Increasing Triplet Subsequence | Medium | 11 | $$O(n)$$ | ![Python][Python.py] | 
 | 345 | Reverse Vowels of a String | Easy | 4 | $$O(n)$$ | ![Python][Python.py] | 
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
