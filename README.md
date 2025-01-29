@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 55
-- Easy: 29
+Total: 56
+- Easy: 30
 - Medium: 18
 - Hard: 8
 
@@ -61,6 +61,7 @@ Total: 55
 | 110 | Balanced Binary Tree | Easy | 4 | $$O(2^n)$$ | ![Cpp][Cpp.cpp] | 
 | 167 | Two Sum II (Input Array is Sorted) | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 206 | Reversed Linked List | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 345 | Reverse Vowels of a String | Easy | 4 | $$O(n)$$ | ![Python][Python.py] | 
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
