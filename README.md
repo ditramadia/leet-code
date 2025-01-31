@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 60
-- Easy: 30
+Total: 61
+- Easy: 31
 - Medium: 22
 - Hard: 8
 
@@ -63,6 +63,7 @@ Total: 60
 | 167 | Two Sum II (Input Array is Sorted) | Medium | 3 | $$O(n)$$ | ![Cpp][Cpp.cpp] | 
 | 206 | Reversed Linked List | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 238 | Product of Array Except Self | Medium | 19 | $$O(n)$$ | ![Python][Python.py] | 
+| 283 | Move Zeroes | Easy | 3 | $$O(n)$$ | ![Python][Python.py] | 
 | 334 | Increasing Triplet Subsequence | Medium | 11 | $$O(n)$$ | ![Python][Python.py] | 
 | 345 | Reverse Vowels of a String | Easy | 4 | $$O(n)$$ | ![Python][Python.py] | 
 | 443 | String Compression | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
