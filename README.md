@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 62
+Total: 63
 - Easy: 32
-- Medium: 22
+- Medium: 23
 - Hard: 8
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -72,6 +72,7 @@ Total: 62
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
 | 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 1679 | Max Number of K-Sum Pairs | Medium | 487 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
