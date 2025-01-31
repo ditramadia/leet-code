@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 61
-- Easy: 31
+Total: 62
+- Easy: 32
 - Medium: 22
 - Hard: 8
 
@@ -66,6 +66,7 @@ Total: 61
 | 283 | Move Zeroes | Easy | 3 | $$O(n)$$ | ![Python][Python.py] | 
 | 334 | Increasing Triplet Subsequence | Medium | 11 | $$O(n)$$ | ![Python][Python.py] | 
 | 345 | Reverse Vowels of a String | Easy | 4 | $$O(n)$$ | ![Python][Python.py] | 
+| 392 | Is Subsequence | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 443 | String Compression | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
