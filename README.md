@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 63
-- Easy: 32
+Total: 64
+- Easy: 33
 - Medium: 23
 - Hard: 8
 
@@ -70,6 +70,7 @@ Total: 63
 | 443 | String Compression | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 643 | Maximum Average Subarray I | Easy | 81 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
 | 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1679 | Max Number of K-Sum Pairs | Medium | 487 | $$O(n)$$ | ![Python][Python.py] | 
