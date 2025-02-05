@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 65
+Total: 66
 - Easy: 33
-- Medium: 24
+- Medium: 25
 - Hard: 8
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -71,6 +71,7 @@ Total: 65
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 643 | Maximum Average Subarray I | Easy | 81 | $$O(k)$$ | ![Python][Python.py] | 
+| 1004 | Max Consecutive Ones III | Medium | 59 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
 | 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | 74 | $$O(k)$$ | ![Python][Python.py] | 
