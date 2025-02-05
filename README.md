@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 66
+Total: 67
 - Easy: 33
-- Medium: 25
+- Medium: 26
 - Hard: 8
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -75,6 +75,7 @@ Total: 66
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
 | 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | 74 | $$O(k)$$ | ![Python][Python.py] | 
+| 1493 | Longest Subarray of 1's After Deleting One Element | Medium | 58 | $$O(n)$$ | ![Python][Python.py] | 
 | 1679 | Max Number of K-Sum Pairs | Medium | 487 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
 
