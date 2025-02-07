@@ -77,6 +77,7 @@ Total: 67
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | 74 | $$O(k)$$ | ![Python][Python.py] | 
 | 1493 | Longest Subarray of 1's After Deleting One Element | Medium | 58 | $$O(n)$$ | ![Python][Python.py] | 
 | 1679 | Max Number of K-Sum Pairs | Medium | 487 | $$O(n)$$ | ![Python][Python.py] | 
+| 1732 | Find the Highest Altitude | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
