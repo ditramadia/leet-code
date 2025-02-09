@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 70
-- Easy: 36
+Total: 71
+- Easy: 37
 - Medium: 26
 - Hard: 8
 
@@ -74,6 +74,7 @@ Total: 70
 | 724 | Find Pivot Index | Easy | 1 | $$O(n)$$ | ![Python][Python.py] | 
 | 1004 | Max Consecutive Ones III | Medium | 59 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
+| 1207 | Unique Number of Occurrences | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | 74 | $$O(k)$$ | ![Python][Python.py] | 
 | 1493 | Longest Subarray of 1's After Deleting One Element | Medium | 58 | $$O(n)$$ | ![Python][Python.py] | 
