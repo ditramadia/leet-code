@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 69
-- Easy: 35
+Total: 70
+- Easy: 36
 - Medium: 26
 - Hard: 8
 
@@ -80,6 +80,7 @@ Total: 69
 | 1679 | Max Number of K-Sum Pairs | Medium | 487 | $$O(n)$$ | ![Python][Python.py] | 
 | 1732 | Find the Highest Altitude | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
+| 2215 | Find the Difference of Two Arrays | Easy | 2 | $$O(n)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
