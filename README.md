@@ -4,10 +4,10 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 72
+Total: 73
 - Easy: 38
-- Medium: 26
-- Hard: 8
+- Medium: 28
+- Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
 | :---: | :--- | :---: | :---: |:---: | :---: |
@@ -73,6 +73,7 @@ Total: 72
 | 643 | Maximum Average Subarray I | Easy | 81 | $$O(k)$$ | ![Python][Python.py] | 
 | 724 | Find Pivot Index | Easy | 1 | $$O(n)$$ | ![Python][Python.py] | 
 | 832 | Flipping an Image | Easy | 0 | $$O(mn)$$ | ![Python][Python.py] | 
+| 897 | Increasing Order Search Tree | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1004 | Max Consecutive Ones III | Medium | 59 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
 | 1207 | Unique Number of Occurrences | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
