@@ -4,8 +4,8 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 71
-- Easy: 37
+Total: 72
+- Easy: 38
 - Medium: 26
 - Hard: 8
 
@@ -72,6 +72,7 @@ Total: 71
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 643 | Maximum Average Subarray I | Easy | 81 | $$O(k)$$ | ![Python][Python.py] | 
 | 724 | Find Pivot Index | Easy | 1 | $$O(n)$$ | ![Python][Python.py] | 
+| 832 | Flipping an Image | Easy | 0 | $$O(mn)$$ | ![Python][Python.py] | 
 | 1004 | Max Consecutive Ones III | Medium | 59 | $$O(n)$$ | ![Python][Python.py] | 
 | 1071 | Greatest Common Divisor of Strings | Easy | 0 | $$O(\min(m,n))$$ | ![Python][Python.py] | 
 | 1207 | Unique Number of Occurrences | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 

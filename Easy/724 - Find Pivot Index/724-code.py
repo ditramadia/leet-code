@@ -2,8 +2,8 @@
 Find Pivot Index
 https://leetcode.com/problems/find-pivot-index/
 
-Created: 2025-07-02
-Updated: 2025-07-02
+Created: 2025-02-07
+Updated: 2025-02-07
 Author: Ditra Amadia
 
 O(n) time complexity
