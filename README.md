@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 74
+Total: 75
 - Easy: 39
-- Medium: 28
+- Medium: 29
 - Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -81,6 +81,7 @@ Total: 74
 | 1431 | Kids with The Greatest Number of Candies | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | 74 | $$O(k)$$ | ![Python][Python.py] | 
 | 1493 | Longest Subarray of 1's After Deleting One Element | Medium | 58 | $$O(n)$$ | ![Python][Python.py] | 
+| 1657 | Determine if Two Strings Are Close | Medium | 84 | $$O(n)$$ | ![Python][Python.py] | 
 | 1679 | Max Number of K-Sum Pairs | Medium | 487 | $$O(n)$$ | ![Python][Python.py] | 
 | 1732 | Find the Highest Altitude | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
