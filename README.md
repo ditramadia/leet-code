@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 75
+Total: 76
 - Easy: 39
-- Medium: 29
+- Medium: 30
 - Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -86,6 +86,7 @@ Total: 75
 | 1732 | Find the Highest Altitude | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
 | 2215 | Find the Difference of Two Arrays | Easy | 2 | $$O(n)$$ | ![Python][Python.py] | 
+| 2352 | Equal Row and Column Pairs | Medium | 3 | $$O(n^2)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
