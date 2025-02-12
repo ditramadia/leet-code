@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 79
+Total: 80
 - Easy: 39
-- Medium: 33
+- Medium: 34
 - Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -67,6 +67,7 @@ Total: 79
 | 334 | Increasing Triplet Subsequence | Medium | 11 | $$O(n)$$ | ![Python][Python.py] | 
 | 345 | Reverse Vowels of a String | Easy | 4 | $$O(n)$$ | ![Python][Python.py] | 
 | 392 | Is Subsequence | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 394 | Decode String | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 404 | Sum of Left Leaves | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 443 | String Compression | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 467 | Unique Substrings in Wraparound String | Medium | 49 | $$O(n)$$ | ![Python][Python.py] | 
