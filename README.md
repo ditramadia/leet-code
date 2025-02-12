@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 77
+Total: 78
 - Easy: 39
-- Medium: 31
+- Medium: 32
 - Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -88,6 +88,7 @@ Total: 77
 | 1768 | Merge Strings Alternately | Easy | 35 | $$O(n)$$ | ![Python][Python.py] | 
 | 2215 | Find the Difference of Two Arrays | Easy | 2 | $$O(n)$$ | ![Python][Python.py] | 
 | 2352 | Equal Row and Column Pairs | Medium | 3 | $$O(n^2)$$ | ![Python][Python.py] | 
+| 2390 | Removing Stars From a String | Medium | 88 | $$O(n)$$ | ![Python][Python.py] | 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
