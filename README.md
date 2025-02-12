@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 78
+Total: 79
 - Easy: 39
-- Medium: 32
+- Medium: 33
 - Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -74,6 +74,7 @@ Total: 78
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 643 | Maximum Average Subarray I | Easy | 81 | $$O(k)$$ | ![Python][Python.py] | 
 | 724 | Find Pivot Index | Easy | 1 | $$O(n)$$ | ![Python][Python.py] | 
+| 735 | Asteroid Collision | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 832 | Flipping an Image | Easy | 0 | $$O(mn)$$ | ![Python][Python.py] | 
 | 897 | Increasing Order Search Tree | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 1004 | Max Consecutive Ones III | Medium | 59 | $$O(n)$$ | ![Python][Python.py] | 
