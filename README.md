@@ -4,9 +4,9 @@ This is my leet code repository for interview preparation and my own entertainme
 by Ditra Amadia <br />
 
 ## Problems
-Total: 76
+Total: 77
 - Easy: 39
-- Medium: 30
+- Medium: 31
 - Hard: 7
 
 | No | Problem | Difficulty | Runtime (ms) | Time Complexity (Big O) | Language | 
@@ -69,6 +69,7 @@ Total: 76
 | 392 | Is Subsequence | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 404 | Sum of Left Leaves | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 443 | String Compression | Medium | 0 | $$O(n)$$ | ![Python][Python.py] | 
+| 467 | Unique Substrings in Wraparound String | Medium | 49 | $$O(n)$$ | ![Python][Python.py] | 
 | 472 | Concatenated Words | Hard | 151 | $$O(n \cdot m^2)$$ | ![Python][Python.py] | 
 | 605 | Can Place Flowers | Easy | 0 | $$O(n)$$ | ![Python][Python.py] | 
 | 643 | Maximum Average Subarray I | Easy | 81 | $$O(k)$$ | ![Python][Python.py] | 
